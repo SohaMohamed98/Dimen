@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btn_size_width_land">300dp</dimen>
+    <dimen name="btn_size_length_land">80dp</dimen>
+    <dimen name="btn_text_size_land">26sp</dimen>
+</resources>
